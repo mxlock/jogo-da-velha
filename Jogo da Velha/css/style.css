@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: 'Poppins' , sans-serif;
+}
+
+.quadrado {
+    border-radius: 20px;
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.jogador,
+.vencedor {
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+button {
+    border-radius: 20px;
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: #eee;
+    cursor: pointer;
+}
